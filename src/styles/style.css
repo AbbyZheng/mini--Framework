@@ -1,0 +1,9 @@
+
+body{
+	background-color: green;
+}
+.test{
+	width: 200px;
+	height:200px;
+	background:url(../images/robot-1.jpg);
+}
